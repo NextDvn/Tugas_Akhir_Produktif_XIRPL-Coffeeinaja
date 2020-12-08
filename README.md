@@ -96,15 +96,15 @@ Aplikasi kami menggunakan beberapa metode seperti:
 
 ##### LOGIN
 
-<img src="images/login.jpeg" width="100"/> <img src="images/login_fail.jpeg" width="100"/> 
+<img src="images/login.jpeg" width="200"/> <img src="images/login_fail.jpeg" width="200"/> 
 
 ##### HOME
 
-<img src="images/home.jpeg" width="100"/> <img src="images/side_menu.jpeg" width="100"/> <img src="images/dark%20mode.jpeg" width="100"/>
+<img src="images/home.jpeg" width="200"/> <img src="images/side_menu.jpeg" width="200"/> <img src="images/dark%20mode.jpeg" width="200"/>
 
 ##### RECYCLEVIEW
 
-<img src="images/list_mode.jpeg" width="100"/> <img src="images/card_view.jpeg" width="100"/> <img src="images/grid_view.jpeg" width="100"/>
+<img src="images/list_mode.jpeg" width="200"/> <img src="images/card_view.jpeg" width="200"/> <img src="images/grid_view.jpeg" width="200"/>
 
 # Credits
 [https://appsnipp.com/free-login-registration-xml-design-for-android/](https://appsnipp.com/free-login-registration-xml-design-for-android/)
