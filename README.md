@@ -96,20 +96,15 @@ Aplikasi kami menggunakan beberapa metode seperti:
 
 ##### LOGIN
 
-![Login][login]
-![Login-Fail][login_fail]
+<img src="images/login.jpeg" width="425"/> <img src="images/login_fail.jpeg" width="425"/> 
 
 ##### HOME
 
-![Home][home]
-![Side-menu][side_menu]
-![Dark-mode][dark_mode]
+<img src="images/home.jpeg" width="300"/> <img src="images/side_menu.jpeg" width="300"/> <img src="images/dark%20mode.jpeg" width="300"/>
 
 ##### RECYCLEVIEW
 
-![list-mode][list_mode]
-![Grid_view][grid_view]
-![Card-view][card_view]
+<img src="images/list_mode.jpeg" width="300"/> <img src="images/card_view.jpeg" width="300"/> <img src="images/grid_view.jpeg" width="300"/>
 
 # Credits
 [https://appsnipp.com/free-login-registration-xml-design-for-android/](https://appsnipp.com/free-login-registration-xml-design-for-android/)
@@ -127,12 +122,4 @@ Distributed under the MIT License. See [LISENCE](https://github.com/othneildrew/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [logo]: images/logo.png
 [logo_tugas]: app/src/main/res/drawable/logo.png
-[login]: images/login.jpeg
-[login_fail]: images/login_fail.jpeg
 [login_fail_code]: images/login_fail_code.PNG
-[home]: images/home.jpeg
-[side_menu]: images/side_menu.jpeg
-[dark_mode]: images/dark%20mode.jpeg
-[list_mode]: images/list_mode.jpeg
-[card_view]: images/card_view.jpeg
-[grid_view]: images/grid_view.jpeg
