@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="5dp"
+        android:minHeight="120dp"
+        app:cardBackgroundColor="@color/whiteBodyColor"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="35dp"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/viewParent.headerText"
+                android:text="Coffee Macchiato"
+                android:textColor="@color/primaryTextColor" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Macchiato harus disajikan di dalam cangkir espresso karena ukurannya memang harus kecil. Dengan menu espresso dan susu dalam ukuran kecil namun tak terlalu besar seperti cappucino tetapi tetap memiliki sentuhan susu yang yahut dan tak membosankan. Biasanya semua olahan kopi di coffee shop otentik tidak menambahkan pemanis, tapi kamu bisa meminta barista untuk menyertakan gula bersama pesananmu."
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:elevation="13dp"
+        android:src="@drawable/home_logo" />
+
+</RelativeLayout>

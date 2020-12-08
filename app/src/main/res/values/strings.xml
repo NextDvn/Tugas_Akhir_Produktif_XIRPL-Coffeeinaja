@@ -1,0 +1,35 @@
+<resources>
+    <!--Recycle-->
+    <string name="app_name">Coffeeinaja</string>
+    <string name="Kopi_name">Nama Kopi</string>
+    <string name="from">Asal</string>
+    <string name="list">List Mode</string>
+    <string name="grid">Grid Mode</string>
+    <string name="with_cardview">CardView Mode</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite [WIP]</string>
+    <string name="order">Order [WIP]</string>
+    <string name="Login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="telp">Telp.</string>
+    <string name="alamat">Alamat</string>
+    <string name="address">Address</string>
+    <string-array name="gender_list">
+        <item>Pilih kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <!--Login-->
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up (WIP)</string>
+
+    <!--Menu-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>
